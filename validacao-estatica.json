@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-11-06",
+  "scope": "static validation only; WebGL/browser/device validation pending",
+  "main_page": {
+    "interactive_project_cards": 3,
+    "legacy_projects_section_present": false,
+    "project_anchor_ids": [
+      "projetos",
+      "feira",
+      "projetos-interativos"
+    ]
+  },
+  "smart_building": {
+    "room_count": 9,
+    "floor_count_options": [
+      4,
+      5,
+      6,
+      8,
+      10,
+      12,
+      16
+    ],
+    "direct_floor_raycaster": "implemented; browser interaction not runtime-tested",
+    "id_selectors_checked": 24
+  },
+  "html_pages": [
+    {
+      "page": "index.html",
+      "ids": 18,
+      "duplicate_ids": [],
+      "full_card_links": 3
+    },
+    {
+      "page": "laboratorio.html",
+      "ids": 0,
+      "duplicate_ids": [],
+      "full_card_links": 0
+    },
+    {
+      "page": "projetos/smart-building-3d/index.html",
+      "ids": 24,
+      "duplicate_ids": [],
+      "full_card_links": 0
+    },
+    {
+      "page": "projetos/halloween-pos/index.html",
+      "ids": 34,
+      "duplicate_ids": [],
+      "full_card_links": 0
+    },
+    {
+      "page": "projetos/construction-3d/index.html",
+      "ids": 24,
+      "duplicate_ids": [],
+      "full_card_links": 0
+    }
+  ],
+  "javascript_syntax": {
+    "script.js": "pass",
+    "smart-building.js": "pass",
+    "halloween-pos.js": "pass",
+    "construction.js": "pass"
+  },
+  "browser_webgl_test": "not run: local browser navigation blocked and CDN DNS unavailable"
+}
